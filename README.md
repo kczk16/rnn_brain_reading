@@ -4,7 +4,7 @@ Recurrent Neural Network and other methods for interpreting EEG signals.
 
 Brain–computer interface (BCI) combines methods, approaches, and ideas from neurophysiology, computer science and engineering to determine real-time two- way connections between living brains and external devices. The classification of electroencephalogram (EEG) signals is of significant importance in BCI systems. Machine learning methods, in particular artificial neural networks, are increasingly popular among classification models in BCI systems.
 
-This work compares a few different machine learning methods in the EEG signal classification problem.
+This work is a part of my master's thesis which compares a few different machine learning methods in the EEG signal classification problem.
 ![screenshot](table.png)
 
 
