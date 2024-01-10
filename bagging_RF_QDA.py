@@ -8,6 +8,9 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.discriminant_analysis import QuadraticDiscriminantAnalysis
 from sklearn.decomposition import PCA
 
+# TODO:
+# * validation split
+# * k-folds cross-validation
 
 # path = ...
 df1 = download_data_as_dataframe(path, set_no='both', subject=1)
