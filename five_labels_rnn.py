@@ -6,6 +6,9 @@ from sklearn.model_selection import train_test_split
 from all_labels_download import download_data_as_dataframe
 from sklearn import preprocessing
 
+# TODO:
+# * validation split
+# * k-folds cross-validation
 
 # path = ...
 df1 = download_data_as_dataframe(path, set_no='both', subject=4)
